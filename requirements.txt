@@ -5,3 +5,4 @@ matplotlib==3.4.3
 seaborn==0.11.2
 experta==1.0.0
 frozendict==2.2.0
+pip install -r requirements.txt
