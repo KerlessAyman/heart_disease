@@ -1,0 +1,6 @@
+pandas
+joblib
+scikit-learn
+streamlit
+experta
+frozendict==2.3.4
