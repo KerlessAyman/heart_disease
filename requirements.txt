@@ -3,6 +3,6 @@ joblib==1.5.0
 scikit-learn==1.6.1
 streamlit==1.45.1
 experta==1.9.4
-frozendict==1.2
+frozendict==2.3.6
 matplotlib==3.8.4
 seaborn==0.12.2
