@@ -1,8 +1,7 @@
-pandas==2.2.3
-joblib==1.5.0
-scikit-learn==1.6.1
-streamlit==1.45.1
-experta==1.9.4
-frozendict==2.3.6
-matplotlib==3.8.4
-seaborn==0.12.2
+python-3.9.7
+tensorflow==2.11.0
+streamlit==1.14.0
+numpy
+pandas
+matplotlib
+seaborn
