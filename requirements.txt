@@ -1,6 +1,11 @@
-pandas
-joblib
-scikit-learn
-streamlit
-experta
+pandas>=1.1.5
+joblib>=1.0.1
+scikit-learn>=0.24.2
+streamlit>=1.0.0
+
+# fix for experta depending on old collections API
+experta==1.9.4
 frozendict==2.3.4
+
+# workaround for experta + Python >=3.10 compatibility
+typing-extensions>=4.0.1
