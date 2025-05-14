@@ -5,3 +5,4 @@ streamlit==1.45.1
 experta==1.9.4
 frozendict==1.2
 matplotlib==3.8.4
+seaborn==0.12.2
