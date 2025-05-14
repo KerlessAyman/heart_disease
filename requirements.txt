@@ -1,9 +1,6 @@
-streamlit
 pandas
 joblib
 scikit-learn
-
-#  frozendict + experta مع Python >= 3.10
+streamlit
 experta==1.9.4
-frozendict==2.3.4
-typing-extensions
+frozendict==1.2
